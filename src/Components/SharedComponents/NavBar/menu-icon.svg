@@ -1,0 +1,35 @@
+<svg  
+  shape-rendering="geometricPrecision" 
+  text-rendering="geometricPrecision"
+>
+  <line 
+    x1="0" 
+    y1="0" 
+    x2="25" 
+    y2="0" 
+    transform="translate(250 65)" 
+    fill="none" 
+    stroke="#000" 
+    stroke-width="3"
+  />
+  <line 
+    x1="0" 
+    y1="0" 
+    x2="25" 
+    y2="0" 
+    transform="translate(250 75)" 
+    fill="none" 
+    stroke="#000" 
+    stroke-width="3"
+  />
+  <line 
+    x1="0" 
+    y1="0" 
+    x2="25" 
+    y2="0" 
+    transform="translate(250 85)" 
+    fill="none" 
+    stroke="#000" 
+    stroke-width="3"
+  />
+</svg>
